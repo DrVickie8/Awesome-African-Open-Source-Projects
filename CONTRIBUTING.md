@@ -52,3 +52,9 @@ To contribute to this project, follow these steps:
 
 Start contributing by writing your native language's version of 'Welcome!'🥳🥳.
 We are so excited to see your first contribution💑
+
+## Get Involved
+
+We encourage you to get involved in our community’s projects and activities. You can do this by:
+
+- Joining our [Discord](https://discord.gg/RufbfsG5) community and introducing yourself in the _#first-timers_ channel, asking questions, and helping to answer questions.
