@@ -11,7 +11,7 @@ We are so excited you finally made it here😊. Welcome, again!
 
 # Ways to contribute
 
-The list below shows the different categories of contributions we are open to.
+The list below shows the different categories of contributions we are open to:
 
 - Documentation
 - Product management
